@@ -1,0 +1,18 @@
+{
+  "name": "nathaniel-test-bower-component",
+  "private": false,
+  "version": "0.0.0",
+  "description": "test bower component",
+  "dependencies": {
+    "bower": "^1.6.5",
+    "gulp": "^3.9.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-insert": "^0.5.0",
+    "gulp-svg-sprite": "^1.2.19",
+    "gulp-svgmin": "^1.2.0",
+    "gulp-svgstore": "^5.0.5",
+    "gulp-util": "^3.0.7",
+    "svgo": "0.6.3",
+    "vinyl": "^1.1.1"
+  }
+}

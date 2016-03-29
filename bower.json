@@ -1,0 +1,14 @@
+{
+    "name": "nathaniel-test-bower-component",
+    "authors": [
+        "Nathaniel Meierpolys"
+    ],
+    "description": "test bower component",
+    "main": "icons/add.svg",
+    "private": false,
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components"
+    ]
+}
